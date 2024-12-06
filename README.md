@@ -70,7 +70,7 @@ O funcionamento do BART-large-CNN combina etapas de pré-treinamento e ajuste fi
 
 1. **Instalar Dependências**
 
-Certifique-se de ter o Python instalado e configure a biblioteca Hugging Face:
+Certifique-se de ter o Python instalado e configure a biblioteca Transformers:
 ```bash
 pip install transformers
 ```
