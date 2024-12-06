@@ -58,7 +58,7 @@ O funcionamento do BART-large-CNN combina etapas de pré-treinamento e ajuste fi
 - **Marketing:** Criação de textos concisos para redes sociais ou blogs.
 - **Jurídico:** Resumo de contratos e documentos legais para maior acessibilidade.
 
-# Limitações do BART-large-CNN (Resumo):
+# Limitações do BART-large-CNN:
 - **Dependência de dados:** Desempenho reduzido fora do domínio de notícias.
 - **Resumos genéricos:** Pode gerar textos superficiais ou com lacunas de informação.
 - **Limite de entrada:** Incapaz de processar textos muito longos sem segmentação.
